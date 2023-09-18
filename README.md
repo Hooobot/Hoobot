@@ -25,12 +25,12 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?logo=mongodb&logoColor=00ED64)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?logo=elastic&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/SQL-0064a5?&logo=sql&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/SQL-0064a5?&logo=mysql&logoColor=ffffff)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-ffffff?logo=git&logocolor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?logo=docker&logoColor=ffffff)
 ![Portainer](https://img.shields.io/badge/Portainer-FFFFFF?logo=portainer&logoColor=13BEF9)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=ffffff)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=000000)
 ![Jira](https://img.shields.io/badge/Jira-ffffff?logo=jira&logoColor=0052CC)
