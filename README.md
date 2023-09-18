@@ -11,11 +11,17 @@
 ![C](https://img.shields.io/badge/C-0065a8?&logo=C&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=ffffff)
 
-### Frameworks and Databases
+### Frameworks
 
 ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb)
 ![Angular](https://img.shields.io/badge/Angular-E23237?logo=angular&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8713fa?logo=bootstrap&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/Node.js-3c873a?&logo=node.js&logoColor=ffffff)
+![Express](https://img.shields.io/badge/Express-222222?logo=express&logoColor=ffffff)
+![Flask](https://img.shields.io/badge/Flask-eeeeee?&logo=flask&logoColor=000000)
+
+### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?logo=mongodb&logoColor=00ED64)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?logo=elastic&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/SQL-0064a5?&logo=sql&logoColor=ffffff)
