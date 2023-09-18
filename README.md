@@ -3,6 +3,7 @@
 ## Current Projects
 - PreviouslyAt - Interactive banner web application that allows users to showcase where they were at previously
 - [Hawaii Zoning Atlas](https://hawaiizoningatlas.com) - Interactive map showing how outdated zoning laws make it hard to build diverse, affordable housing in Hawaii.
+- [UHE-Website](https://github.com/UHEsports/UHE-Website) - Frontend webpage for the University of Hawaii Esports page
 
 ### Languages
 
