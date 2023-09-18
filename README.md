@@ -25,7 +25,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?logo=mongodb&logoColor=00ED64)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?logo=elastic&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/SQL-0064a5?&logo=mysql&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/SQL-0064a5?&logo=postgresql&logoColor=ffffff)
 
 ### Tools
 
